@@ -3,6 +3,5 @@
   "$UICIDEBOY$ - Venom (Feat. SHAKEWELL) (Lyrics)",
   "Bruno Mars & Sexyy Red - Fat Juicy & Wet _ Lyrics 4",
   "Lemonade 4",
-  "Beet",
   "Dreams (2004 Remaster) 4"
 }
