@@ -5,5 +5,6 @@
   "Lemonade 4",
   "Dreams (2004 Remaster) 4",
   "Crazy Frog - Axel F (Official Video) 4",
-  "Hudson Mohawke - Cbat (Official Audio) 4"
+  "Hudson Mohawke - Cbat (Official Audio) 4",
+  "Jason Derulo - Talk Dirty feat. 2 Chainz [Official HD Music Video] 4"
 }
