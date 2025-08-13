@@ -1,5 +1,6 @@
 {
   "End of All",
   "Benson Boone - Beautiful Things (Lyrics) 4",
-  "WHATCHU KNO ABOUT ME 4"
+  "WHATCHU KNO ABOUT ME 4",
+  "$UICIDEBOY$ - Venom (Feat. SHAKEWELL) (Lyrics)"
 }
